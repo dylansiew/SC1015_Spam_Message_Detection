@@ -1,4 +1,4 @@
-# Welcome to spam-detetion repository
+# Welcome to spam-detection repository
 
 ## About
 
