@@ -40,7 +40,7 @@ This is a Mini-Project for SC10105 (Introduction to Data Science and Artificial 
 
 - Handling imbalanced datasets using resampling methods like K-Fold
 - Logistic Regression, Naive Bayes, SVC and RandomForestClassifier from sklearn
-- Other packages such as tqdm, Figlet, IPython
+- Other packages such as tqdm, Figlet and Wordcloud
 - Collaborating using GitHub
 - Concepts about Accuracy, Vectorizing, and F1 Score
 
