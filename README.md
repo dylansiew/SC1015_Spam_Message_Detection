@@ -4,11 +4,12 @@
 
 This is a Mini-Project for SC10105 (Introduction to Data Science and Artificial Intelligence) which focuses on Spam Messages from [Spam DataSet](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset). For detailed walkthrough, please view the source code in order from:
 
-1. [Data Extraction](https://github.com/nicklimmm/movie-analysis/blob/main/data-extraction.ipynb)
-2. [Data Visualization](https://github.com/nicklimmm/movie-analysis/blob/main/data-visualization.ipynb)
-3. [Data Resampling and Splitting](https://github.com/nicklimmm/movie-analysis/blob/main/data-resampling-and-splitting.ipynb)
-4. [Logistic Regression](https://github.com/nicklimmm/movie-analysis/blob/main/logistic-regression.ipynb)
-5. [Neural Network](https://github.com/nicklimmm/movie-analysis/blob/main/neural-network.ipynb)
+1. [Data Extraction](https://github.com/dylansiew/SC1015-Spam-Detection/blob/7231517f7c47ac1a6ed1515ad70869f17481b80f/SMS_spam_Data_Extraction.ipynb)
+2. [Data Visualization](https://github.com/dylansiew/SC1015-Spam-Detection/blob/7231517f7c47ac1a6ed1515ad70869f17481b80f/SMS_spam_Data_Visualization.ipynb)
+3. [Machine Learning](https://github.com/dylansiew/SC1015-Spam-Detection/blob/7231517f7c47ac1a6ed1515ad70869f17481b80f/SMS_spam_Machine_Learning.ipynb)
+4. [Resampling and Analysis](https://github.com/dylansiew/SC1015-Spam-Detection/blob/7231517f7c47ac1a6ed1515ad70869f17481b80f/SMS_spam_Resampling_and_Analysis.ipynb)
+5. [Spam Buster 3000](https://github.com/dylansiew/SC1015-Spam-Detection/blob/7231517f7c47ac1a6ed1515ad70869f17481b80f/SMS_spam_Product.ipynb)
+6. [Compiled](https://github.com/dylansiew/SC1015-Spam-Detection/blob/7231517f7c47ac1a6ed1515ad70869f17481b80f/SMS_spam_Compiled.ipynb)
   
 ## Contributors
 
