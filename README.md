@@ -15,6 +15,7 @@ This is a Mini-Project for SC10105 (Introduction to Data Science and Artificial 
 
 - @dylansiew 
 - @integr8ti0n
+- @ruochee723
 
 ## Problem Definition
 
