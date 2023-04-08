@@ -30,6 +30,10 @@ This is a Mini-Project for SC10105 (Introduction to Data Science and Artificial 
 4. Logistic Regression
 5. Model Ensemble
 
+## Product
+
+The ultimate spam detection tool designed to keep your inbox free of unwanted and harmful messages. With its powerful model ensemble of Naive Bayes, SVM, RFC, and Logistic Regression, Spam Buster 3000 constantly updates its dataframe with every new user input to improve accuracy and robustness over time. Its advanced algorithms allow for a comprehensive analysis of incoming data, ensuring that no spam goes unnoticed. Spam Buster 3000 is easy to use and highly customizable, giving you full control over how you want to manage your inbox. Say goodbye to spam once and for all with Spam Buster 3000.
+
 ## Conclusion
 
 - All models performed well when predicitng Spam Messages with a low false negative and false positive rate
