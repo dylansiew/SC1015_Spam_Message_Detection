@@ -28,6 +28,7 @@ This is a Mini-Project for SC10105 (Introduction to Data Science and Artificial 
 2. Support Vector Machine
 3. Random Forest Classifier
 4. Logistic Regression
+5. Model Ensemble
 
 ## Conclusion
 
