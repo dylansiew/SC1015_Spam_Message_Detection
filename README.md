@@ -1,4 +1,4 @@
-# Welcome to spam-detection repository
+# Spam Buster 3000
 
 ## About
 
