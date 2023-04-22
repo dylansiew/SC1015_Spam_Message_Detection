@@ -14,7 +14,7 @@ This is a Mini-Project for SC10105 (Introduction to Data Science and Artificial 
 ## Contributors
 
 - @dylansiew - Model training, final product, slides and script
-- @integr8ti0n - Exploratory Analysis, video
+- @integr8ti0n - Video
 - @ruochee723 - Data Cleaning and Extraction, slides and script
 
 ## Problem Definition
